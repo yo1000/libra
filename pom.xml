@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.yo1000</groupId>
-    <artifactId>libra</artifactId>
+    <groupId>com.yo1000.sq</groupId>
+    <artifactId>sq-libra</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <description>Companion for the inspection.</description>
-    <url>https://github.com/yo1000/libra</url>
+    <url>https://github.com/yo1000/sq-libra</url>
 
     <licenses>
         <license>
