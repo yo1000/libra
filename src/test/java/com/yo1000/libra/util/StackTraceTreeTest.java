@@ -1,4 +1,4 @@
-package com.yo1000.sq.libra.util;
+package com.yo1000.libra.util;
 
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
